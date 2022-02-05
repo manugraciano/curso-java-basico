@@ -12,6 +12,7 @@ public class Exerc06 {
         contato1.telefones[0] = "99999-9999";
         contato1.telefones[1] = "99999-9998";
         contato1.telefones[2] = "99999-9997";
+        contato1.telefones[3] = "99999-9996";
 
 
 
