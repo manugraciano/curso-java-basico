@@ -1,4 +1,4 @@
-package aula24exercicios;
+package cursojava.aula24exercicio;
 
 public class Lampada {
 

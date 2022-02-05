@@ -1,10 +1,10 @@
-package aula24exercicios;
+package cursojava.aula24exercicio;
 
 public class Exerc01 {
 
     public static void main (String[] arg) {
 
-        aula24exercicios.Lampada lampada = new aula24exercicios.Lampada();
+        Lampada lampada = new Lampada();
         lampada.modelo = "A60";
         lampada.tensao = "Bivolt";
         lampada.garantiaMeses = 36;
